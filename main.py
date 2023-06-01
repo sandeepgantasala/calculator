@@ -26,4 +26,5 @@ elif option == 7:
     print("The Output is: ",FirstNumber // SecondNumber)
 else:
     print("Invalid Option")
+print("Thank You")
 
