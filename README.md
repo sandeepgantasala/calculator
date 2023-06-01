@@ -1,2 +1,2 @@
 # calculator
-Simple GUI calculator [Python]
+Simple  calculator Using  [Python] Programming Language
